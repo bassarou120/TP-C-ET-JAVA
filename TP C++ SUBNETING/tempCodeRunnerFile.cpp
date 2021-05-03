@@ -1,0 +1,1 @@
+ sub_neting_objet.verifier_ip();
